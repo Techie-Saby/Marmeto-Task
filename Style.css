@@ -55,6 +55,7 @@ i {
     border-radius: 8px;
     margin: 5px;
     padding-top: 5px;
+    cursor: pointer;
 }
 
 .badge {
@@ -64,6 +65,7 @@ i {
     border-radius: 4px;
     padding: 5px;
     font-size: 12px;
+    cursor: pointer;
 }
 
 .titleContainer {
@@ -113,6 +115,7 @@ i {
     border: none;
     border-radius: 4px;
     margin: 6px 0;
+    cursor: pointer;
 }
 
 .tabs button:first-child{
